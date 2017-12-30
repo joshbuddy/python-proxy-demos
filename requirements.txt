@@ -1,0 +1,4 @@
+httptools
+hexdump
+PyMySQL
+dnslib
